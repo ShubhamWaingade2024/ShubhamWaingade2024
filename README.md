@@ -1,3 +1,6 @@
+# Hi, I'm Shubham Waingade
+**A passionate AIML Student || Embedded Systems || Exploring VLSI from India**
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shubham098058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-waingade-5400172b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waingadeshubham25@gmail.com) 
